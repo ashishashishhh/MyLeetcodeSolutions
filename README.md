@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Dynamic Programming
