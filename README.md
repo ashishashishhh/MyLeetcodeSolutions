@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
@@ -85,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0221-maximal-square) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
