@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
