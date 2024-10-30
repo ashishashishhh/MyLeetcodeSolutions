@@ -19,5 +19,6 @@ private:
             subsets(nums, j + 1, currvec, subs);
             currvec.pop_back();
         }
+        cout<<"ok"<<endl;
     }
 };
