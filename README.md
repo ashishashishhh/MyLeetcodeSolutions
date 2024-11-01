@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2591-frog-jump-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2591-frog-jump-ii) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3593-find-the-maximum-factor-score-of-array) |
 <!---LeetCode Topics End-->
