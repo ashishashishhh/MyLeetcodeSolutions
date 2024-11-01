@@ -7,7 +7,7 @@ public:
         if(i>=row || j>=col)
         return 0;
         
-        if(i==row-1 && j==col-1)
+        if(i==row-1 )
         return dp[i][j] = triangle[i][j];
 
         if(dp[i][j]!=INT_MIN)
