@@ -1,11 +1,7 @@
 class Solution {
 public:
     int fun(vector<vector<int>>& triangle,int i,int j,int row,int col,vector<vector<int>>&dp){
-        if(i<0 || j<0)
-        return 0;
-    
-        if(i>=row || j>=col)
-        return 0;
+       
         
         if(i==row-1 )
         return dp[i][j] = triangle[i][j];
