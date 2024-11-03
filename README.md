@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0091-decode-ways) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0812-rotate-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2580-circular-sentence) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
