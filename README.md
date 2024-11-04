@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0396-rotate-function) |
+| [0413-arithmetic-slices](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
