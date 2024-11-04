@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
 ## Array
 |  |
 | ------- |
@@ -91,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0090-subsets-ii) |
+| [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2591-frog-jump-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2591-frog-jump-ii) |
 ## Binary Search
