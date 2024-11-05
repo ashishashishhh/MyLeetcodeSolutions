@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
 | [1250-longest-common-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2591-frog-jump-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2591-frog-jump-ii) |
 ## Binary Search
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
