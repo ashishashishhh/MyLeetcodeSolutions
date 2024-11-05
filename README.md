@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
 | [1250-longest-common-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2591-frog-jump-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2591-frog-jump-ii) |
 ## Binary Search
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0413-arithmetic-slices) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
