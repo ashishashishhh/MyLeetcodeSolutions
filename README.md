@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0486-predict-the-winner) |
+| [0650-2-keys-keyboard](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0650-2-keys-keyboard](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
