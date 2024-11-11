@@ -3,9 +3,11 @@ private:
         int solveMem(vector<int>& nums1, vector<int>& nums2,int index,int swapped,vector<vector<int>> &dp)
     {
          //base case
-         if(index==nums1.size()) return 0;
+         if(index==nums1.size())
+          return 0;
 
-         if(dp[index][swapped]!=-1) return dp[index][swapped];
+         if(dp[index][swapped]!=-1)
+          return dp[index][swapped];
 
          int ans=INT_MAX;
 
@@ -13,10 +15,12 @@ private:
          int prev2=nums2[index-1];
 
          //catch
-         if(swapped) swap(prev1,prev2);
+         if(swapped)
+          swap(prev1,prev2);
 
          //noswap
-         if(nums1[index]>prev1 && nums2[index]>prev2) ans=solveMem(nums1,nums2,index+1,0,dp);
+         if(nums1[index]>prev1 && nums2[index]>prev2)
+          ans=solveMem(nums1,nums2,index+1,0,dp);
          
          //swap
          if(nums1[index]>prev2 && nums2[index]>prev1)
