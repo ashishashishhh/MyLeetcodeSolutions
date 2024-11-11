@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
