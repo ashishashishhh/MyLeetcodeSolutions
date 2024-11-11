@@ -1,7 +1,7 @@
 class Solution {
 public:
     void findcombination(int ind, int target, vector<int> &arr,vector<vector<int>> &ans, vector<int> &ds){
-        if(ind >= arr.size()){
+        if(ind == arr.size()){
             if(target==0)
                 ans.push_back(ds);
             return;
