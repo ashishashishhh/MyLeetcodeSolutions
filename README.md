@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0649-dota2-senate](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
