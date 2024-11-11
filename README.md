@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
+| [0502-ipo](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0502-ipo) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
 ## String
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0502-ipo) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Indexed Tree
