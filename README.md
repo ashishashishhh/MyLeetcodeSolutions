@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0650-2-keys-keyboard) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
