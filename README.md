@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0097-interleaving-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0443-string-compression](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0443-string-compression) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
