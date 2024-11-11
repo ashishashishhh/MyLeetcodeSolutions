@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1130-last-stone-weight-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
