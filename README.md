@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-find-the-highest-altitude](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0443-string-compression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0735-asteroid-collision) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2470-removing-stars-from-a-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0969-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
