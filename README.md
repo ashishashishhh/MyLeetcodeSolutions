@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0263-ugly-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0216-combination-sum-iii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0224-basic-calculator) |
