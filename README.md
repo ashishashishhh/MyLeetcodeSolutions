@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0502-ipo) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
 ## String
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0413-arithmetic-slices) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0724-find-pivot-index) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -353,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0649-dota2-senate) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -362,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
