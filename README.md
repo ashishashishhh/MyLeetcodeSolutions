@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -382,10 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
