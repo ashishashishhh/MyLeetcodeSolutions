@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1130-last-stone-weight-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1130-last-stone-weight-ii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0221-maximal-square) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
