@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-find-the-highest-altitude](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1972-rotating-the-box) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1972-rotating-the-box) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0443-string-compression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1972-rotating-the-box](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1972-rotating-the-box) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
