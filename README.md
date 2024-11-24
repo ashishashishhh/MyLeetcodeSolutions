@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1972-rotating-the-box) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2089-maximum-matrix-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-maximum-matrix-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2591-frog-jump-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2591-frog-jump-ii) |
 | [2716-prime-subtraction-operation](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
