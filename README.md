@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
+| [0787-sliding-puzzle](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0221-maximal-square) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
+| [0787-sliding-puzzle](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0279-perfect-squares](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0322-coin-change) |
+| [0787-sliding-puzzle](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Game Theory
 |  |
