@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2591-frog-jump-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2591-frog-jump-ii) |
 | [2716-prime-subtraction-operation](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0502-ipo) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## String
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Combinatorics
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1757-minimum-jumps-to-reach-home) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Game Theory
 |  |
@@ -445,5 +449,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
