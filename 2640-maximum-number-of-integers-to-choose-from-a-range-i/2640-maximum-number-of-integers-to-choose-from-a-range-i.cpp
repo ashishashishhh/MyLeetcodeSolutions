@@ -12,7 +12,6 @@ public:
             if(curr>maxSum)
             return 0;
             if(st.find(curr)==st.end()){
-                cout<<curr<<endl;
                 sum+=curr;
                 curr++;
                 if(sum<=maxSum)
