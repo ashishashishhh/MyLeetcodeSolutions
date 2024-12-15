@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-find-the-highest-altitude](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1972-rotating-the-box) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2591-frog-jump-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0502-ipo) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1917-maximum-average-pass-ratio](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
