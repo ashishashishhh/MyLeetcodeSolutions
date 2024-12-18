@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Backtracking
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3451-string-compression-iii) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Game Theory
 |  |
 | ------- |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Graph
 |  |
 | ------- |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Shortest Path
 |  |
 | ------- |
