@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3651-transformed-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3651-transformed-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
+| [3651-transformed-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3651-transformed-array) |
 ## Design
 |  |
 | ------- |
