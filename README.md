@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0396-rotate-function) |
+| [0445-add-two-numbers-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0224-basic-calculator) |
+| [0445-add-two-numbers-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0445-add-two-numbers-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
 ## Depth-First Search
 |  |
 | ------- |
