@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
 | ------- |
