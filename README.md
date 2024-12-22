@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3427-special-array-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3427-special-array-ii) |
 ## Hash Table
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
 | ------- |
@@ -416,10 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Stack
 |  |
 | ------- |
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2470-removing-stars-from-a-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -476,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Queue
 |  |
 | ------- |
