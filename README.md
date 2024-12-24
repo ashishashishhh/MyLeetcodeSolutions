@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0650-2-keys-keyboard) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0275-h-index-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0400-nth-digit](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0400-nth-digit) |
 | [0475-heaters](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0475-heaters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
