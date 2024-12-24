@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0221-maximal-square) |
+| [0275-h-index-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0322-coin-change) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0475-heaters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
