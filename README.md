@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0475-heaters) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0400-nth-digit) |
+| [0436-find-right-interval](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0475-heaters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0502-ipo) |
