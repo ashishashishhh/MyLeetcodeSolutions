@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0486-predict-the-winner) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0475-heaters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0456-132-pattern) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0456-132-pattern) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
