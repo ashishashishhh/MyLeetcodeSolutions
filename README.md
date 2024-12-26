@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
 | [0806-domino-and-tromino-tiling](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0808-number-of-matching-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0808-number-of-matching-subsequences) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0741-cherry-pickup) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0787-sliding-puzzle) |
+| [0808-number-of-matching-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0808-number-of-matching-subsequences) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0755-reach-a-number](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0755-reach-a-number) |
+| [0808-number-of-matching-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0808-number-of-matching-subsequences) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0808-number-of-matching-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0808-number-of-matching-subsequences) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
+| [0808-number-of-matching-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
@@ -439,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0808-number-of-matching-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0808-number-of-matching-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -590,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0808-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
