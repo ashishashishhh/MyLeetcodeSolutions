@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1063-best-sightseeing-pair](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1130-last-stone-weight-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1063-best-sightseeing-pair](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1130-last-stone-weight-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1130-last-stone-weight-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
