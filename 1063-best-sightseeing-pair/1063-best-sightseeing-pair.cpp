@@ -1,9 +1,7 @@
 class Solution {
 public:
     int maxScoreSightseeingPair(vector<int>& values) {
-        int n = values.size();
-        if (n < 2)
-         return values[0] + values[1] + 0 - 1; 
+        
         int diff = INT_MIN;
         int value = values[0];
         int index = 0;
