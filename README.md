@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0397-integer-replacement](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0397-integer-replacement) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2530-minimize-maximum-of-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2530-minimize-maximum-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2691-count-vowel-strings-in-ranges) |
