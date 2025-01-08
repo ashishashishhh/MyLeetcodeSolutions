@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3451-string-compression-iii) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -627,4 +630,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0808-number-of-matching-subsequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
