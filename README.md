@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
