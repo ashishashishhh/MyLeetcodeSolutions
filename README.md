@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2145-grid-game](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2145-grid-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2164-two-best-non-overlapping-events](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2145-grid-game](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2465-shifting-letters-ii) |
 | [2530-minimize-maximum-of-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2530-minimize-maximum-of-array) |
