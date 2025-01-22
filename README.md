@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-minimum-jumps-to-reach-home](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-find-the-highest-altitude](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2089-maximum-matrix-sum) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1757-minimum-jumps-to-reach-home) |
+| [1876-map-of-highest-peak](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
