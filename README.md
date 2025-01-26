@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0787-sliding-puzzle) |
 | [1396-count-servers-that-communicate](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0547-number-of-provinces](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ashishashishhh/MyLeetcodeSolutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
